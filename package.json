@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@c7s/http-errors": "c7s/http-errors#dev",
-    "axios": "0.18.0",
+    "axios": "0.19.0",
     "inversify": "5.0.1",
     "lodash.pick": "4.4.0",
     "object-to-map": "2.0.1"
